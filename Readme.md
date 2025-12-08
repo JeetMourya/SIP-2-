@@ -32,3 +32,6 @@ enrollment no. : BTCS24O1074
 Name-Yashasvi Tomar 
 Enrollment no. BTEL24O1151
 
+Name-Jeet Mourya
+Enrollment no. BTIT24O1063
+
