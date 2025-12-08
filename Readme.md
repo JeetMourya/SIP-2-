@@ -1,4 +1,5 @@
 # SIP-2 Full Stack Web Development
 
 Students Details :
-Name - Enrollment no.
+Name : Aryan Baraiya
+Enrollment no. : BTEO24O1010
