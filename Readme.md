@@ -1,4 +1,5 @@
 # SIP-2 Full Stack Web Development
 
 Students Details :
-Name - Enrollment no.
+Name: Purushottam Nagar
+Enrollment no. : BTMC24O1103
